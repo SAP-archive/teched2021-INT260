@@ -1,39 +1,80 @@
-# Session ID - Session Title
+# INT260 TechEd 2021: Take Advantage of Templates in Document Information Extraction
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called INT260 - Take Advantage of Templates in Document Information Extraction.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the steps required to create custom templates on Document Information Extraction.
 
-## Requirements
+## Audience
 
-The requirements to follow the exercises in this repository are...
+Consultant, Developer, Business Process Expert, Product Manager, Architect
 
-## Exercises
+## Agenda
+* [Introduction](#Intro)
+* [Prerequisites](#Prerequisites)
+* [Exercise 1](#Exercise1)
+* [Exercise 2](#Exercise2)
+* [Exercise 3](#Exercise3)
+* [Exercise 4](#Exercise4)
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+<a id="Intro"></a>
+## Introduction
+In this course you discover how to use the Document Information Extraction service for business document processing. Learn how you can use built-in AI capabilities to extract relevant information out of different business documents and validate the results in a standard user interface. Explore the latest advancements in templating and schemas to extract business entities from custom document types.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+<a id="Prerequisites"></a>
+## Prerequisites
+To get the most out of this TechEd hands-on workshop, participants of this training need to create a BTP account and a service instance for Document Information Extraction as a prerequisite step.
 
-  
-**OR** Link to the Tutorial Navigator for example...
+### Get your free trial account on SAP Business Technology Platform
+To create a service instance for Document Information Extraction it is necessary to generate a trial account if you do not have one. Please remember that your trial account can be extended unlimited times in case your trial account is already expired. You will find more information [here](https://developers.sap.com/tutorials/hcp-create-trial-account.html#0dcf1c45-cd6f-48cc-ae10-690765287a5a). 
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+### Run Booster for Document Information Extraction 
+Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers-qa.sap.com/tutorials/cp-aibus-dox-booster-app.html)
+
+### Assign roles
+_This needs to be updated_
+
+The required roles are `Document_Information_Extraction_UI_Templates_Admin_trial` and `Document_Information_Extraction_UI_End_User_trial`. These steps would be covered during the workshop.
+
+*Duration: approximately 25 minutes* 
+
+## Exercises:
+
+### Use Case 1: Standard Document Type 
+<a id="Exercise1"></a>
+**Exercise 1:**
+[Create Custom Schema for Purchase Order Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
+
+<a id="Exercise2"></a>
+**Exercise 2:**
+[Create Custom Template for Purchase Order Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-template.html)
+
+*Duration: approximately 40 minutes*
+
+### Use Case 2: Custom Document Type 
+
+<a id="Exercise3"></a>
+**Exercise 3:**
+[Create Custom Schema for Custom Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
+
+<a id="Exercise4"></a>
+**Exercise 4:**
+[Create Custom Template for Custom Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
+
+*Duration: approximately 30 minutes*
+
+There would a Q&A session after the exercises during the hands-on session at TechEd.
 
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
+
+_This needs to be updated_
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
