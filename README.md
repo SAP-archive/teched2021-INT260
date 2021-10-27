@@ -32,7 +32,7 @@ To get the most out of this TechEd hands-on workshop, participants of this train
 To create a service instance for Document Information Extraction it is necessary to generate a trial account if you do not have one. Please remember that your trial account can be extended unlimited times in case your trial account is already expired. You will find more information [here](https://developers.sap.com/tutorials/hcp-create-trial-account.html#0dcf1c45-cd6f-48cc-ae10-690765287a5a). 
 
 ### Run Booster for Document Information Extraction 
-Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers-qa.sap.com/tutorials/cp-aibus-dox-booster-app.html)
+Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html)
 
 ### Assign roles
 _This needs to be updated_
@@ -46,11 +46,11 @@ The required roles are `Document_Information_Extraction_UI_Templates_Admin_trial
 ### Use Case 1: Standard Document Type 
 <a id="Exercise1"></a>
 **Exercise 1:**
-[Create Custom Schema for Purchase Order Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
+[Create Custom Schema for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema.html)
 
 <a id="Exercise2"></a>
 **Exercise 2:**
-[Create Custom Template for Purchase Order Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-template.html)
+[Create Custom Template for Purchase Order Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template.html)
 
 *Duration: approximately 40 minutes*
 
@@ -58,11 +58,11 @@ The required roles are `Document_Information_Extraction_UI_Templates_Admin_trial
 
 <a id="Exercise3"></a>
 **Exercise 3:**
-[Create Custom Schema for Custom Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
+[Create Custom Schema for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-schema-custom.html)
 
 <a id="Exercise4"></a>
 **Exercise 4:**
-[Create Custom Template for Custom Documents](https://developers-qa.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
+[Create Custom Template for Custom Documents](https://developers.sap.com/tutorials/cp-aibus-dox-ui-template-custom.html)
 
 *Duration: approximately 30 minutes*
 
