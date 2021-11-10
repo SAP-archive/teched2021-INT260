@@ -15,6 +15,7 @@ Consultant, Developer, Business Process Expert, Product Manager, Architect
 ## Agenda
 * [Introduction](#Intro)
 * [Prerequisites](#Prerequisites)
+* [Pre-check](#Exercise0)
 * [Exercise 1](#Exercise1)
 * [Exercise 2](#Exercise2)
 * [Exercise 3](#Exercise3)
@@ -42,6 +43,11 @@ The required roles are `Document_Information_Extraction_UI_Templates_Admin_trial
 *Duration: approximately 25 minutes* 
 
 ## Exercises:
+
+## Pre-check: Sample Document Extraction
+<a id="Exercise0"></a>
+- Step 1: Download the [sample document](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/cp-aibus-dox-swagger-ui/data/sample-invoice-1.pdf)
+- Step 2: Upload document to the DOX UI and check the results.
 
 ### Use Case 1: Standard Document Type 
 <a id="Exercise1"></a>
