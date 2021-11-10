@@ -35,12 +35,7 @@ To create a service instance for Document Information Extraction it is necessary
 ### Run Booster for Document Information Extraction 
 Once the account is generated, you can create your service instance for Document Information Extraction by running the Booster. [Begin with the tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html)
 
-### Assign roles
-_This needs to be updated_
-
-The required roles are `Document_Information_Extraction_UI_Templates_Admin_trial` and `Document_Information_Extraction_UI_End_User_trial`. These steps would be covered during the workshop.
-
-*Duration: approximately 25 minutes* 
+*Duration: approximately 20 minutes* 
 
 ## Exercises:
 
@@ -79,8 +74,6 @@ There would a Q&A session after the exercises during the hands-on session at Tec
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
-
-_This needs to be updated_
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
