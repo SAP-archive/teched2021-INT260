@@ -12,6 +12,10 @@ This session introduces attendees to the steps required to create custom templat
 
 Consultant, Developer, Business Process Expert, Product Manager, Architect
 
+## Presentation
+
+You can access and download the presentation from the live session [here]. 
+
 ## Agenda
 * [Introduction](#Intro)
 * [Prerequisites](#Prerequisites)
