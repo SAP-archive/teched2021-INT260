@@ -14,7 +14,7 @@ Consultant, Developer, Business Process Expert, Product Manager, Architect
 
 ## Presentation
 
-You can access and download the presentation from the live session [HERE](https://github.com/SAP-samples/teched2021-INT260/blob/a615825bdd8496801a9dc05a91e230b8bc27fb77/TechEd%202021_INT260_Presentation.pdf). 
+You can access and download the presentation from the live session [HERE](https://github.com/SAP-samples/teched2021-INT260/blob/a615825bdd8496801a9dc05a91e230b8bc27fb77/TechEd%202021_INT260_Presentation.pdf).
 
 ## Agenda
 * [Introduction](#Intro)
