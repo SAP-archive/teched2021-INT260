@@ -1,4 +1,4 @@
-# INT260 TechEd 2021: Take Advantage of Templates in Document Information Extraction
+# INT260 - Take Advantage of Templates in Document Information Extraction
 
 ## Description
 
